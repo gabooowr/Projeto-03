@@ -67,11 +67,11 @@ p{
 }
 
 .button-get:hover{
-    opacity: 0.8;
+    opacity: .8;
 }
 
 .button-get:active{
-    opacity: 0.5;
+    opacity: .5;
 }
 
 a{
